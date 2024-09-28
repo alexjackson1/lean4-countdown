@@ -9,4 +9,4 @@ lean_lib «Cdown» where
 
 @[default_target]
 lean_exe "cdown" where
-  root := `Main
+  root := `countdown
